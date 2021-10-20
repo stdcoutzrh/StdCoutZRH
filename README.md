@@ -1,5 +1,5 @@
 ### Hey 👋, I'm ZhangRenhe.
-<!--
+
 <a href="https://blog.csdn.net/PecoHe">
   <img align="left" alt="StdCoutZRH's blog." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/blogger.svg" />
 </a>
@@ -43,5 +43,4 @@ Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀 from ECNU
 
 ![StdCoutZRH's github stats](https://github-readme-stats.vercel.app/api?username=StdCoutZRH&show_icons=true&hide_border=true)
 ![StdCoutZRH's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutZRH&langs_count=9&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
--->
 **Waiting...❤️❤️❤️**
