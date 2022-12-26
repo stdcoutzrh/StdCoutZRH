@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀. 
+Hello, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀. 
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -41,6 +41,6 @@ Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀.
 
 **Github Stats:**
 
-![StdCoutZRH's github stats](https://github-readme-stats.vercel.app/api?username=StdCoutZRH&theme=dark&show_icons=true&hide_border=false)
-![StdCoutZRH's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutZRH&langs_count=9&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
+![StdCoutZRH's github stats](https://github-readme-stats.vercel.app/api?username=StdCoutZRH&theme=buefy&show_icons=true&hide_border=false)
+![StdCoutZRH's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutZRH&theme=buefy&langs_count=9&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
 **☀️☀️☀️**
