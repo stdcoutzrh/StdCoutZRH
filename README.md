@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀 from ECNU 🏛. 
+Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀. 
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Personal Stuffs:**
 
-- 👨‍💻 I'm currently a student at East China Normal University, engaged in CV research;
+- 👨‍💻 I'm currently a student engaged in CV research;
 - 🤔 My interests are with Computer Vision, Machine Learning, Robot, etc..;
 - 💼 I'm studying for a master's degree in computer science and technology;
 - 📫 Please email via stdcoutzrh@gmail.com to reach me;
@@ -41,6 +41,6 @@ Hi there, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀 from ECNU
 
 **Github Stats:**
 
-![StdCoutZRH's github stats](https://github-readme-stats.vercel.app/api?username=StdCoutZRH&show_icons=true&hide_border=true)
+![StdCoutZRH's github stats](https://github-readme-stats.vercel.app/api?username=StdCoutZRH&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10k&show_icons=true&hide_border=true)
 ![StdCoutZRH's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=StdCoutZRH&langs_count=9&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
-**Waiting...❤️❤️❤️**
+**☀️☀️☀️**
