@@ -47,4 +47,4 @@ Hello, I'm **Zhang Renhe**, a **Computer Science student** 🙍🚀.
 
 **☀️☀️☀️**
 
-You are my  ![Visitor Count](https://profile-counter.glitch.me/stdcoutzrh/count.svg)  vistors，thank you！:kissing_heart:
+Welcome to my homepage: [stdcoutzrh.github.io](https://stdcoutzrh.github.io/),thank you!
