@@ -13,25 +13,27 @@
 
 </div>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
 
 <tr>
 
-<td width="60%" align="left">
+<td width="100%" align="left">
 
-<img align="right"
+<img
+align="right"
 alt="GIF"
-width="250px"
-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+width="350px"
+src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+/>
 
-**About Me**
+## About Me
 
 - 💼 I'm studying for a Ph.D. degree in computer science and technology;
 - 👨‍💻 My interests are with 3D Vision, 2D Vision, Robot, etc.;
 - 📫 Please email via stdcoutzrh@gmail.com to reach me;
 - 💬 Ask me about anything, I am happy to help.
 
-**GitHub Status**
+## GitHub Status
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StdCoutZRH&title=Stars,Experience,Followers,Commits&row=1&column=4&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
