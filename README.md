@@ -12,4 +12,6 @@
 
 **☀️☀️☀️**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=StdCoutZRH)](https://github.com/ryo-ma/github-profile-trophy)
+
 Welcome to my homepage: [https://stdcoutzrh.github.io](https://stdcoutzrh.github.io/), thank you!
