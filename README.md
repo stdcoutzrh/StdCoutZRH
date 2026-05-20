@@ -9,22 +9,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StdCoutZRH)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stdcoutzrh@gmail.com)
 
----
-
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+
+<table width="100%">
 
 <tr>
 
-<td width="100%" align="left">
-
-<img
-align="right"
-alt="GIF"
-width="350px"
-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-/>
+<td width="60%" valign="top">
 
 ## About Me
 
@@ -39,14 +31,18 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 </td>
 
+<td width="40%" align="center" valign="middle">
+
+<img
+src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+width="350"
+/>
+
+</td>
+
 </tr>
 
 </table>
 
-<div align="left">
-
----
 
 ⭐ Thanks for visiting! ⭐
-
-</div>
