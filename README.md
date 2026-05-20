@@ -10,8 +10,11 @@
 - 📫 Please email via stdcoutzrh@gmail.com to reach me;
 - 💬 Ask me about anything, I am happy to help.
 
-**☀️☀️☀️**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=StdCoutZRH)](https://github.com/ryo-ma/github-profile-trophy)
+**Github Status:**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=StdCoutZRH&title=Stars,Experience,Followers,Commits&row=1&column=4&theme=flat&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+**☀️☀️☀️**
 
 Welcome to my homepage: [https://stdcoutzrh.github.io](https://stdcoutzrh.github.io/), thank you!
