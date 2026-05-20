@@ -11,12 +11,13 @@
 
 </div>
 
+---
 
-<table width="100%">
+<table width="100%" style="border:none;border-collapse:collapse;">
 
-<tr>
+<tr style="border:none;">
 
-<td width="60%" valign="top">
+<td width="60%" valign="top" style="border:none; padding-right:20px;">
 
 ## About Me
 
@@ -31,11 +32,11 @@
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="border:none;">
 
 <img
 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-width="350"
+width="360"
 />
 
 </td>
@@ -44,5 +45,6 @@ width="350"
 
 </table>
 
+---
 
 ⭐ Thanks for visiting! ⭐
